@@ -22,6 +22,7 @@
 		95AC673C1FF777B900427172 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95AC673F1FF777B900427172 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95AC67411FF777B900427172 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95D0EFF12007386300E7C3CA /* LocalDB.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = LocalDB.db; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				95AC67391FF777B900427172 /* Main.storyboard */,
 				95AC673C1FF777B900427172 /* Assets.xcassets */,
 				95AC673E1FF777B900427172 /* LaunchScreen.storyboard */,
+				95D0EFF12007386300E7C3CA /* LocalDB.db */,
 				95AC67411FF777B900427172 /* Info.plist */,
 			);
 			path = DBProject;
